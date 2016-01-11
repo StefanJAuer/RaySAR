@@ -1,3 +1,19 @@
+The license below applies to new software components developed in the context of the RaySAR (C++ source code, 
+MATLAB source code). 
+
+One of the two following publications has to be cited in publications resulting from the application of RaySAR:
+
+Auer SJ (2011), 3D Synthetic Aperture Radar Simulation for Interpreting Complex Urban Reflection Scenarios, 
+Technische Universität München, 2011, 126 p., online: http://mediatum.ub.tum.de/doc/1003958/1003958.pdf
+
+or 
+
+S Auer, S Hinz, R Bamler (2010), Ray-tracing simulation techniques for understanding high-resolution SAR images, 
+IEEE Transactions on Geoscience and Remote Sensing, 48(3), 1445-1456
+
+------------------------------------------------------------------------------------------
+
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
