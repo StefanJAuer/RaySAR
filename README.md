@@ -22,8 +22,9 @@ Feedback and contributions for improving RaySAR are welcome there, too.
 
 Finally, please have a look to already conducted work (see "RaySAR in a nutshell", section 1.2. of RaySAR documentation) and don't forget to cite existing RaySAR methods and case studies appropriately in your work. Good luck with your projects!
 
-Stefan Auer 
-Remote Sensing Technology Institute at German Aerospace Center (DLR)
+Stefan Auer
+
+Remote Sensing Technology Institute at German Aerospace Center (DLR),
 Stefan.Auer@dlr.de
 
 January, 2016
