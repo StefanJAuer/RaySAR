@@ -5,7 +5,9 @@ To start with, I will try to summarize the main properties of the software packa
 
 RaySAR is a 3D synthetic aperture radar (SAR) simulator which enables to generate SAR image layers related to detailed 3D object models. Moreover, it enables one to localize the 3D positions and surface intersection points related to reflected radar signals. In particular, RaySAR helps to understand the nature of signal multiple reflections at man-made objects (e.g. building structures) or artificial shapes. Scene models with different levels of detail can be processed - from digital surface models (DSMs) to high-end 3D structures - which can be defined in relative or absolute world coordinates. RaySAR can be run on Windows / Linux and is based on an adapted version of the open-source ray tracer POV-Ray.
 
-The package, which can be found via the link "release" above, contains the following folders:
+Publications on RaySAR and related applications can be found here: https://www.researchgate.net/profile/Stefan_Auer/contributions
+
+The RaySAR package, which can be found via the link "release" above, contains the following folders:
 - MATLAB_code: MATLAB components of RaySAR
 - POV-Ray: RaySAR components related to ray tracing (installation instructions, POV-Ray source, model file for testing POV-Ray, compiled version of adapted POV-Ray for Windows) 
 - RaySAR_Documentation: theoretical background (doctoral thesis) and documentation on RaySAR
