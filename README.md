@@ -7,7 +7,7 @@ RaySAR is a 3D synthetic aperture radar (SAR) simulator which enables to generat
 
 Publications on RaySAR and related applications can be found here: https://www.researchgate.net/profile/Stefan_Auer/contributions
 
-The RaySAR package (accessible via the link "release" above) contains the following folders:
+The RaySAR package contains the following folders:
 - MATLAB_code: MATLAB components of RaySAR
 - POV-Ray: RaySAR components related to ray tracing (installation instructions, POV-Ray source, model file for testing POV-Ray, compiled version of adapted POV-Ray for Windows) 
 - RaySAR_Documentation: theoretical background (doctoral thesis) and documentation on RaySAR
