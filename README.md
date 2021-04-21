@@ -12,6 +12,7 @@ RaySAR has been developed in the course of a doctoral thesis at TUM, Munich, in 
 Feel free to change / adapt / enhance RaySAR in the course of your work. Good luck with your projects :-).
 
 Kind regards
+
 Stefan Auer
 
 Remote Sensing Technology Institute at German Aerospace Center (DLR),
