@@ -1,0 +1,42 @@
+Using and compiling of adapted POV-Ray for RaySAR: 
+
+Note that a compiled .exe-file of POV-Ray 3.7 for RaySAR on Windows can be already found in the folder 
+RaySAR-POV-Ray_compiled. Recompiling the code (recommendation: use Visual C 2012 or older) is only necessary if the code of the ray tracing 
+process is changed, e.g. in order to add further signal reflection levels beyond 5 or export further information into 
+the text file Contributions.txt. If this is not the case, just use the existing exe file for your work, which is 
+found in the folder POV-Ray $\rightarrow$ POV-Ray\_3.7\_for\_RaySAR_compiled. If this is not the case, just use the 
+existing exe file for your work, which is found in the folder POV-Ray -> POV-Ray 3.7 for RaySAR compiled. Note, that 
+regular POV-Ray 3.7. has to be installed first, which is also included in the package, see folder 
+POV-Ray -> POVRay_3.7_original_Windows.
+
+Instruction for building POV-Ray 3.7 from the provided source code:
+
+Extract the .zip-file povray-3.7.0.0_for_raysar-master.zip in the package and compile it (see instructions below).
+
+Building POV-Ray 3.7 in Linux environment, see instruction on
+https://github.com/POV-Ray/povray/blob/master/unix/README.md
+(Note: In case of problems, please read README_RAYSAR_LINUX.txt in folder povray-3.7.0.0_for_raysar-master)
+
+Just in case recompiling is necessary:
+Building POV-Ray 3.7 in Windows environment, see instruction on
+https://github.com/POV-Ray/povray/blob/master/windows/README.md
+(Note: the project povray.sln for opening the code can be found in povray-3.7.0.0_for_raysar-master -> windows -> vs10; the exe is obtained by building GUI) 
+
+(please visit the Github homepage of POV-Ray 3.7 in case the links above are broken)
+
+---
+
+Please have a look to the dummy folder structure for working in Windows (RaySAR_folder_structure_for_Windows.zip) 
+included in the package.
+
+
+
+
+
+
+
+ 
+
+
+
+
